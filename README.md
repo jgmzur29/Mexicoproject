@@ -1,0 +1,2 @@
+# Mexicoproject
+Practic for mysql 
